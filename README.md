@@ -7,7 +7,7 @@ I am studying systems engineering at university and i'm passionate about learnin
 ------------
 | Github Stats | Languages |
 |---|---
-| ![fabiloco's github stats](https://github-readme-stats.vercel.app/api?username=fabiloco&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiloco&layout=compact)](https://github.com/fabiloco/github-readme-stats) |
+| ![fabiloco's github stats](https://github-readme-stats.vercel.app/api?username=fabiloco&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiloco&layout=compact&theme=tokyonight)](https://github.com/fabiloco/github-readme-stats) |
 ------------
 
 <!--
