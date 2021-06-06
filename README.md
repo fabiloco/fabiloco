@@ -1,5 +1,5 @@
 
-# Fabián Sánchez
+# Fabián Sánchez - @fabiloco
 ### Hi there 👋
 I am studying systems engineering at university and i'm passionate about learning new stuffs.
 - 🌱 I’m currently learning web development
