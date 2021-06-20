@@ -4,13 +4,13 @@
 I am studying systems engineering at university and i'm passionate about learning new stuffs.
 - 🌱 I’m currently learning web development
 
+<!--
 ------------
 | Github Stats | Languages |
 |---|---
 | ![fabiloco's github stats](https://github-readme-stats.vercel.app/api?username=fabiloco&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiloco&layout=compact&theme=tokyonight)](https://github.com/fabiloco/github-readme-stats) |
 ------------
 
-<!--
 ## 📫 How to reach me:
 - [![Twitter URL](https://img.shields.io/twitter/follow/FabianSzr)](https://twitter.com/FabianSzr)
 
